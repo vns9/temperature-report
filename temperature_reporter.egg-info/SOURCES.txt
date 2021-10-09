@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+temperature_reporter/cli.py
+temperature_reporter/utils.py
+temperature_reporter.egg-info/PKG-INFO
+temperature_reporter.egg-info/SOURCES.txt
+temperature_reporter.egg-info/dependency_links.txt
+temperature_reporter.egg-info/entry_points.txt
+temperature_reporter.egg-info/requires.txt
+temperature_reporter.egg-info/top_level.txt

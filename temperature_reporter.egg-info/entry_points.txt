@@ -1,0 +1,3 @@
+[console_scripts]
+temperature-reporter = temperature_reporter.cli:main
+
